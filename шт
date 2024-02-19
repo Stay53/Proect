@@ -1,0 +1,173 @@
+<!DOCTYPE>
+<html>
+<head><title>10 научных открытий 2023 года</title>
+<style>
+body {
+background-image: url('D:\forest-tree-trunck-wide-5.jpg') no-repeat;
+background-position: center top;
+background-attachment: fixed;
+#container {
+background-image: url("птицы.jpg");
+position: relative;
+margin: avto;
+width: 100%;
+height: 8300px;
+}
+#robot {
+background-image: url("робот.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:300px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#vid {
+background-image: url("вид.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:1100px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#intelect {
+background-image: url("интеллект.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:1900px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#yaderka {
+background-image: url('ядерка.jpg');
+background-repeat: no-repeat;
+position: absolute;
+top:2700px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#nica {
+background-image: url("коллайдер.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:3500px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#bolezn {
+background-image: url("альцгеймер.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:4300px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#mishi {
+background-image: url("мыши.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:5100px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#sistema {
+background-image: url("система.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:5900px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#cric {
+background-image: url("крик.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:6700px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+#maso {
+background-image: url("мясо.jpg");
+background-repeat: no-repeat;
+position: absolute;
+top:7500px;
+left: 320px;
+width: 1200px;
+height: 674px;
+}
+</style>
+</head>
+<body>
+<div id='container'>
+<br><br><br><h1 align='center' style='font-size:70px;'><font color='white'>10 научных открытий 2023 года</font></h1>
+<div id='robot'>
+<h1 align='center'><font color='white'>Роботы из жидкого металла</font></h1>
+<form action='Роботы.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='vid'>
+<h1 align='center'><font color='white'>Восстановленная РНК вымершего вида</font></h1>
+<form action='РНК вида.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='intelect'>
+<h1 align='center'><font color='white'>Искусственный интеллект читает мысли</font></h1>
+<form action='Интеллект.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='yaderka'>
+<h1 align='center'><font color='white'>Управляемая термоядерная реакция</font></h1>
+<form action='Реакция.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='nica'>
+<h1 align='center'><font color='white'>Запуск коллайдера NICA</font></h1>
+<form action='Коллайдер.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='bolezn'>
+<h1 align='center'><font color='white'>Первое лекарство от болезни Альцгеймера</font></h1>
+<form action='Болезнь.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='mishi'>
+<h1 align='center'><font color='white'>Мыши из двух самцов</font></h1>
+<form action='Мыши.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='sistema'>
+<h1 align='center'><font color='white'>Новая экосистема под морским дном</font></h1>
+<form action='Экосистема.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='cric'>
+<h1 align='center'><font color='white'>Крик растений</font></h1>
+<form action='Крик.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+<div id='maso'>
+<h1 align='center'><font color='white'>Фрикаделька из мяса мамонта</font></h1>
+<form action='Мясо.html'>
+	<button style='position: absolute; left:500px; top:550px; width:200px;height:50px'>Читать больше</button>
+</form>
+</div>
+</div>
+</body>
+</html>
